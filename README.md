@@ -33,7 +33,7 @@ Create a new R Notebook to complete this exercise.
 
 15. Determine the number of countries per continent. Create a bar chart showing this.
 
-16. Create a seaborn boxplot showing GDP per capita in 2018 split out by continent. What do you notice?
+16. Create a boxplot showing GDP per capita in 2018 split out by continent. What do you notice?
 
 17. Read life_expectancy.csv into a tibble named life_expectancy. Do not modify the csv file in order to read this data in. 
  
